@@ -14,6 +14,7 @@
 		84A939AB1F35725800A86BB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A939A91F35725800A86BB4 /* LaunchScreen.storyboard */; };
 		84A939B61F35725800A86BB4 /* Whats_the_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A939B51F35725800A86BB4 /* Whats_the_WeatherTests.swift */; };
 		84A939C11F35725800A86BB4 /* Whats_the_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A939C01F35725800A86BB4 /* Whats_the_WeatherUITests.swift */; };
+		84A939CF1F35740500A86BB4 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84A939CE1F35740500A86BB4 /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		84A939BC1F35725800A86BB4 /* Whats the WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats the WeatherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A939C01F35725800A86BB4 /* Whats_the_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_the_WeatherUITests.swift; sourceTree = "<group>"; };
 		84A939C21F35725800A86BB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84A939CE1F35740500A86BB4 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background.jpg; path = ../../../../Users/admin/Downloads/background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				84A939A21F35725800A86BB4 /* ViewController.swift */,
 				84A939A41F35725800A86BB4 /* Main.storyboard */,
 				84A939A71F35725800A86BB4 /* Assets.xcassets */,
+				84A939CE1F35740500A86BB4 /* background.jpg */,
 				84A939A91F35725800A86BB4 /* LaunchScreen.storyboard */,
 				84A939AC1F35725800A86BB4 /* Info.plist */,
 			);
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84A939AB1F35725800A86BB4 /* LaunchScreen.storyboard in Resources */,
+				84A939CF1F35740500A86BB4 /* background.jpg in Resources */,
 				84A939A81F35725800A86BB4 /* Assets.xcassets in Resources */,
 				84A939A61F35725800A86BB4 /* Main.storyboard in Resources */,
 			);
